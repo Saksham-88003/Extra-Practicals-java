@@ -1,4 +1,5 @@
 // 4) To learn use of two dimensional array by defining the array dynamically.
+
 class TwoDArray{
     public static void main(String[] args){
          int arr[][]= new int[5][];
@@ -26,5 +27,3 @@ class TwoDArray{
 
     }
 }
-
-
