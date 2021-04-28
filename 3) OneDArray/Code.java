@@ -24,6 +24,5 @@ public class OneDArray {
         for(int i =0; i<s; i++){
             System.out.print((arr[i]+5)+" ");
         }
-
     }
 }
