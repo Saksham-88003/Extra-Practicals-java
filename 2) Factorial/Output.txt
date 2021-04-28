@@ -1,0 +1,2 @@
+Enter the number to find its factorial : 5
+The factorial of the entered number is : 120
