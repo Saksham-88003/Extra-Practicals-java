@@ -8,6 +8,6 @@
             for(int i=0 ; i<n ; i++){
                 sum+=Integer.parseInt(args[i]);
             }
-            System.out.print("The sum of entered arguments is :"+sum);
+            System.out.print("The sum of entered arguments is : "+sum);
         }
  }
